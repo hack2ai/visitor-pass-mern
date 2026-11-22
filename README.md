@@ -42,17 +42,31 @@ Built as a full MERN-stack project with JWT authentication, four role-based expe
 
 ## Screenshots
 
-| Sign in | Dashboard |
-|---|---|
-| ![Sign in](screenshots/login.png) | ![Dashboard](screenshots/dashboard.png) |
+<table>
+  <tr>
+    <td width="50%" align="center"><b>Sign in</b><br><br><img src="screenshots/login.png" alt="Sign in page" width="100%"></td>
+    <td width="50%" align="center"><b>Visitor dashboard</b><br><br><img src="screenshots/visitor-dashboard.png" alt="Visitor dashboard" width="100%"></td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center"><b>Pre-register a visit and track its status</b><br><br><img src="screenshots/visits.png" alt="Visits page" width="75%"></td>
+  </tr>
+</table>
 
-| Visit approval | Visitor pass |
-|---|---|
-| ![Visits](screenshots/visits.png) | ![Pass](screenshots/pass.png) |
+<!--
+More screenshots: add pass.png, scan.png, dashboard.png and reports.png to the
+screenshots folder, then remove the comment markers around this block.
 
-| QR scanner | Reports |
-|---|---|
-| ![Scanner](screenshots/scan.png) | ![Reports](screenshots/reports.png) |
+<table>
+  <tr>
+    <td width="50%" align="center"><b>Visitor pass with QR</b><br><br><img src="screenshots/pass.png" alt="Visitor pass" width="100%"></td>
+    <td width="50%" align="center"><b>QR scanner</b><br><br><img src="screenshots/scan.png" alt="QR scanner" width="100%"></td>
+  </tr>
+  <tr>
+    <td width="50%" align="center"><b>Admin dashboard</b><br><br><img src="screenshots/dashboard.png" alt="Admin dashboard" width="100%"></td>
+    <td width="50%" align="center"><b>Reports</b><br><br><img src="screenshots/reports.png" alt="Reports" width="100%"></td>
+  </tr>
+</table>
+-->
 
 ## Features
 
