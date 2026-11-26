@@ -11,7 +11,7 @@
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-[Live demo](#live-demo) · [Demo video](#live-demo) · [Features](#features) · [Quick start](#quick-start) · [API](#api-reference)
+[Live demo](#live-demo) · [Features](#features) · [Quick start](#quick-start) · [API](#api-reference)
 
 </div>
 
@@ -34,9 +34,8 @@ Built as a full MERN-stack project with JWT authentication, four role-based expe
 
 | | |
 |---|---|
-| Application | **Add your Vercel link here** |
-| API health check | **Add your Render link here**`/api/health` |
-| Demo video | **Add your video link here** |
+| Application | [https://visitor-pass-client-dusky.vercel.app](https://visitor-pass-client-dusky.vercel.app) |
+| API base URL | `https://visitor-pass-mern-uxa4.onrender.com/api` |
 
 > The free backend sleeps when idle, so the first request can take 30 to 50 seconds.
 
